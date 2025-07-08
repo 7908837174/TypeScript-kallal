@@ -1,4 +1,4 @@
-# TypeScript Learning Repository
+# TypeScript Learning Repository (TypeScript-kallal)
 
 This repository contains various TypeScript examples and learning materials, including basic TypeScript concepts, Express.js integration, and a React application.
 

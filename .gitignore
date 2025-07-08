@@ -9,10 +9,8 @@ dist/
 build/
 *.js.map
 
-# Compiled JavaScript files (but allow config files)
-*.js
-!*config*.js
-!*.config.js
+# Note: Including compiled JavaScript files as requested
+# *.js files are now included
 
 # TypeScript cache
 *.tsbuildinfo

@@ -7,8 +7,12 @@ yarn-error.log*
 # Build outputs
 dist/
 build/
-*.js
 *.js.map
+
+# Compiled JavaScript files (but allow config files)
+*.js
+!*config*.js
+!*.config.js
 
 # TypeScript cache
 *.tsbuildinfo
